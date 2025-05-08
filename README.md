@@ -39,9 +39,25 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
 
 **📊 GitHub Stats**
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucassolHenrique&show_icons=true&theme=gruvbox)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=LucassolHenrique&show_icons=true&theme=gruvbox" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassolHenrique&layout=compact&theme=gruvbox" /></td>
+    </tr>
+  </table>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucassolHenrique&layout=compact&theme=gruvbox)
 
-<!-- WakaTime stats -->
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_sol_itt&theme=gruvbox)](https://wakatime.com/@Lucas_sol_itt)
+
+
+
+<div align="center">
+  <a href="https://wakatime.com/@Lucas_sol_itt">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_sol_itt&theme=gruvbox" />
+  </a>
+</div>
+
+
+
+
