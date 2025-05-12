@@ -52,10 +52,6 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
 </div>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucassolHenrique&theme=gruvbox&hide_total_contributions=true" />
-</div>
-
 
 
 
