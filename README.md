@@ -51,11 +51,6 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
   </table>
 </div>
 
-<div align="center">
-  <a href="https://wakatime.com/@Lucas_sol_itt">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_sol_itt&theme=gruvbox" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LucassolHenrique&theme=gruvbox&hide_total_contributions=true" />
