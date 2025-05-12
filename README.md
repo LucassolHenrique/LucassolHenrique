@@ -36,27 +36,32 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
 <br/>
 <br/>
 
-
 **📊 GitHub Stats**
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=LucassolHenrique&show_icons=true&theme=gruvbox" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassolHenrique&layout=compact&theme=gruvbox" /></td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=LucassolHenrique&show_icons=true&theme=gruvbox" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassolHenrique&layout=compact&theme=gruvbox&langs_count=10&hide=html,css" />
+      </td>
     </tr>
   </table>
 </div>
-
-
-
-
 
 <div align="center">
   <a href="https://wakatime.com/@Lucas_sol_itt">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lucas_sol_itt&theme=gruvbox" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucassolHenrique&theme=gruvbox&hide_total_contributions=true" />
+</div>
+
+
 
 
 
