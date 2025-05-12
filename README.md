@@ -7,7 +7,9 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
 <p align="left"> <a href="https://github.com/LucassolHenrique"> <img alt="followers" title="Me segue no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/LucassolHenrique?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 
 <a href="https://github.com/LucassolHenrique?tab=repositories&sort=stargazers"> <img alt="total stars" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/LucassolHenrique?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> </p>
 
+
 **🧰 Tecnologias e Ferramentas**
+
 
 <img align="left" alt="Salesforce" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /> 
 
@@ -36,7 +38,9 @@ Sou um desenvolvedor júnior em constante aprendizado, construindo minha própri
 <br/>
 <br/>
 
+
 **📊 GitHub Stats**
+
 
 <div align="center">
   <table>
